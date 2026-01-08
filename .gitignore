@@ -1,0 +1,5 @@
+/target/
+*.db
+.idea/
+config.properties
+db.properties
