@@ -83,3 +83,10 @@ O BankHub não é apenas um sistema de transações; é um estudo de caso em **A
 <div align="center">
   <p><i>"Transformando lógica complexa em soluções bancárias confiáveis."</i></p>
 </div>
+---
+
+## 🛡️ Segurança e Confiabilidade
+
+- **Autenticação JWT:** Implementação de tokens seguros para sessões de usuário.
+- **Criptografia BCrypt:** Proteção de dados sensíveis e senhas no banco de dados.
+- **Validação de Transações:** Algoritmos para garantir a integridade de saldos e transferências.
